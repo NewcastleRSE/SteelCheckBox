@@ -35,7 +35,7 @@ jobs:
         retention-days: 1
     - uses: marvinpinto/action-automatic-releases@latest
       with:
-        repo_token: "${{ secrets.YOUR-GITHUB-TOKEN }}"
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
         files: staging/*.jar
 
 
