@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SteelCheckBox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SteelCheckBox_jar</output-path>
+    <root id="archive" name="SteelCheckBox.jar">
+      <element id="module-output" name="SteelCheckBox" />
+    </root>
+  </artifact>
+</component>
